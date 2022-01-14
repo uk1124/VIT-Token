@@ -1,1 +1,1 @@
-A self developed cryptocurrency, using Solidity. The user can buy tokens or sell them according to their need.
+A web application built on Ethereum blockchain which lets users interact with our Cryptocurrency.
