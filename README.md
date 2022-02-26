@@ -8,20 +8,20 @@ ICO or Initial Coin Offering refers to the process of launching the cryptocurren
 So for our project, we have used the Rinkeby Test Network, which is a version of the Ethereum network, mainly used for test purposes. Therefore, all the Ethers (tokens) exchanged on our network are not of any real value on the actual network.
 Our project is a web-app that lets you interact with our cryptocurrency. This was developed using HTML, CSS, Bootstrap, and JavaScript. Our coin is based on the EIP protocol provided by Ethereum for setting up the Smart Contracts on Solidity.
 We have developed 2 Smart Contracts for our project:
-  • One for the coin (according to ERC-20 standard)
-  • Other one for the token sale (ICO).
+* One for the coin (according to ERC-20 standard)
+* Other one for the token sale (ICO).
 We have used Solidity as a language for our smart contacts. To implement Blockchain locally we used Ganache and Truffle framework using NodeJS. Lastly to connect to the Blockchain network the user needs to have the MetaMask extension on their web browser. Metamask also provides users with Ethers from their wallet which they can send and receive to test our currency as well as our network.
 
-# Technologies used
+## Technologies used
 
-Solidity Compiler
-Metamask
-Truffle
-Ganache
-HTML
-CSS
-JavaScript
-NodeJS
+* Solidity Compiler
+* Metamask
+* Truffle
+* Ganache
+* HTML
+* CSS
+* JavaScript
+* NodeJS
   
   # Few Insights
   
