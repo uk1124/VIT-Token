@@ -25,11 +25,14 @@ We have used Solidity as a language for our smart contacts. To implement Blockch
   # Few Insights
   
   Website
+  
   ![image](https://user-images.githubusercontent.com/55598047/155832830-6f985323-730e-4679-87c5-2308764a3117.png)
 
   Ganache workspace
+  
   ![image](https://user-images.githubusercontent.com/55598047/155832859-28d3a5ee-82c6-4939-86c5-8aa325308258.png)
 
   Metamask Browser Extension
+  
   ![image](https://user-images.githubusercontent.com/55598047/155832872-e4eb96d4-a45f-460c-aff9-0f1f7fb80fc7.png)
 
