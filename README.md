@@ -10,7 +10,8 @@ Our project is a web-app that lets you interact with our cryptocurrency. This wa
 We have developed 2 Smart Contracts for our project:
 * One for the coin (according to ERC-20 standard)
 * Other one for the token sale (ICO).
-*We have used Solidity as a language for our smart contacts. To implement Blockchain locally we used Ganache and Truffle framework using NodeJS. Lastly to connect to the Blockchain network the user needs to have the MetaMask extension on their web browser. Metamask also provides users with Ethers from their wallet which they can send and receive to test our currency as well as our network.
+
+We have used Solidity as a language for our smart contacts. To implement Blockchain locally we used Ganache and Truffle framework using NodeJS. Lastly to connect to the Blockchain network the user needs to have the MetaMask extension on their web browser. Metamask also provides users with Ethers from their wallet which they can send and receive to test our currency as well as our network.
 
 # Technologies used
 
