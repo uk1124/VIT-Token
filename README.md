@@ -13,14 +13,15 @@ We have developed 2 Smart Contracts for our project:
 We have used Solidity as a language for our smart contacts. To implement Blockchain locally we used Ganache and Truffle framework using NodeJS. Lastly to connect to the Blockchain network the user needs to have the MetaMask extension on their web browser. Metamask also provides users with Ethers from their wallet which they can send and receive to test our currency as well as our network.
 
 # Technologies used
-  • Solidity Compiler
-  • Metamask
-  • Truffle
-  • Ganache
-  • HTML
-  • CSS
-  • JavaScript
-  • NodeJS
+
+Solidity Compiler
+Metamask
+Truffle
+Ganache
+HTML
+CSS
+JavaScript
+NodeJS
   
   # Few Insights
   
